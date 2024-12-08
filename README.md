@@ -9,4 +9,4 @@ It's a simple tool for capturing pictures every n-th frame using rtsp link provi
 3. Run the script by executing `python rtsp_scrapper.py` in your terminal
 4. The script will capture pictures every n-th frame and save them in the current directory
 ## Creds
-_InsrtNqme_
+_Non_q_me_
