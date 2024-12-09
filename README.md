@@ -8,5 +8,9 @@ It's a simple tool for capturing pictures every n-th frame using rtsp link provi
 2. Change `config.toml` with the data you need
 3. Run the script by executing `python rtsp_scrapper.py` in your terminal
 4. The script will capture pictures every n-th frame and save them in the current directory
+## TO-DO
+- Add the ability to process multiple cameras simultaneously (multithreading)
+- Detailed log system 
+- Docker support
 ## Creds
 _Non_q_me_
