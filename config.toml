@@ -3,6 +3,6 @@ rtsp_url = 'rtsp://158.58.130.148/mpeg4/media.amp' # Link to rtsp camera
 frame_value = 100 # Default: takes screenshot every 200 frames
 
 [location]
-max_size_gb = 10  # Maximum folder size in GB
+max_size_gb = 0  # Maximum folder size in GB, Default: 0 — no limit
 log_file = 'RTSP_scrapper.log' # Path to log file
 output_folder = 'saved_frames' # Folder path for saved images
